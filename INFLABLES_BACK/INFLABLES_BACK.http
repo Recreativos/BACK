@@ -1,0 +1,6 @@
+@INFLABLES_BACK_HostAddress = http://localhost:5034
+
+GET {{INFLABLES_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

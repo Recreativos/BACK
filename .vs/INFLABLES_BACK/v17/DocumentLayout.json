@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|c:\\users\\harold.pedraza\\documents\\github\\prueba_harold_pedraza\\inflables_back\\inflables_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|solutionrelative:inflables_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|c:\\users\\harold.pedraza\\documents\\github\\prueba_harold_pedraza\\inflables_back\\inflables_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|solutionrelative:inflables_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|c:\\users\\harold.pedraza\\documents\\github\\prueba_harold_pedraza\\inflables_back\\inflables_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|solutionrelative:inflables_back\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|c:\\users\\harold.pedraza\\documents\\github\\prueba_harold_pedraza\\inflables_back\\inflables_back\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE91EBE2-A12B-4BE0-B34C-0F8FF24AB5F4}|INFLABLES_BACK\\INFLABLES_BACK.csproj|solutionrelative:inflables_back\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "INFLABLES_BACK\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Properties\\launchSettings.json",
+              "RelativeToolTip": "INFLABLES_BACK\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T14:23:25.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "INFLABLES_BACK\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Controllers\\UserController.cs",
+              "RelativeToolTip": "INFLABLES_BACK\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:47:25.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Program.cs",
+              "RelativeDocumentMoniker": "INFLABLES_BACK\\Program.cs",
+              "ToolTip": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\Program.cs",
+              "RelativeToolTip": "INFLABLES_BACK\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:46:32.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.production.json",
+              "DocumentMoniker": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\appsettings.production.json",
+              "RelativeDocumentMoniker": "INFLABLES_BACK\\appsettings.production.json",
+              "ToolTip": "C:\\Users\\harold.pedraza\\Documents\\GitHub\\Prueba_harold_pedraza\\INFLABLES_BACK\\INFLABLES_BACK\\appsettings.production.json",
+              "RelativeToolTip": "INFLABLES_BACK\\appsettings.production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T17:46:25.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
